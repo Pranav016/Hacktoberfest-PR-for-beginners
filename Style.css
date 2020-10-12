@@ -105,6 +105,7 @@ header .container .col-md-7 p {
 .primary-btn {
   border-radius: 30px;
   font-weight: bold;
+  margin: auto;
 }
 
 /********** section 1 **************/
@@ -248,6 +249,8 @@ header .container .col-md-7 p {
   background: rgba(208, 241, 241, 0.199);
   border-top-right-radius: 170px;
   border-top-left-radius: 170px;
+  display: flex;
+  flex-direction: column;
 }
 
 .card-body .pricing > h1 {
