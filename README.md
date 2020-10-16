@@ -14,9 +14,10 @@ Happy Coding!
 	```git clone https://github.com/Pranav016/Hacktoberfest-PR-for-beginners.git  <folder-name>```
 
 * Commit and push your code to the remote repo on your Github.<br/>
+` git checkout -b <branch name>`<br/>
 ` git add .`<br/>
-` git commit -m "message"`<br/>
+` git commit -m "your message"`<br/>
 ` git remote add origin <HTTP code the forked repo>`<br/>
-` git push origin master`<br/>
+` git push origin <your branch name>`<br/>
 
 * Make a pull request!
