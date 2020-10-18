@@ -13,6 +13,8 @@ Happy Coding!
 * Clone the Repo to a particular folder on your system by going to your local Git Client and pushing this command: <br/>
 	```git clone https://github.com/Pranav016/Hacktoberfest-PR-for-beginners.git  <folder-name>```
 
+* Add your code and your **Github Handle to CONTRIBUTERS.md**.
+
 * Commit and push your code to the remote repo on your Github.<br/>
 ` git checkout -b <branch name>`<br/>
 ` git add .`<br/>
