@@ -6,7 +6,7 @@ int main(int argc, char const *argv[])
 	printf("Enter a character : ");
 	scanf("%c",&ch);
 	//z = (int)ch;
-	if(ch >= 67 && ch <= 90)
+	if(ch >= 65 && ch <= 90)// range will strats from 65 not 67
 	{
 		printf("\n %c is a Capital Letter",ch);
 	}
