@@ -36,7 +36,6 @@ void printArray(int array[], int size) {
   printf("\n");
 }
 
-
 //main function
 int main(){
     int *arr;
@@ -63,9 +62,3 @@ int main(){
     free(arr);
     return 0;
 }
-
-
-  
-  
-  
-  
