@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>html</title>
+</head>
+<body bgcolor="cyan">
+<form>
+<center>
+<br><br><br><br>
+username<input type="text" name="text"><br><br><br>
+password <input type="password" name="password"> <br><br>    
+gender<input type="radio" name="gender" value="male">male<br><br>
+            &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<input type="radio" name="gender" 
+
+value="female"> female<br><br>
+<p>state</p>
+<select name="states">
+<option>up</option>
+<option>mp</option>
+<option>ap</option>
+<option>hp</option>
+<option>jk</option>
+<option>karnataka</option>
+<option>kerala</option>
+<option>maharashtra</option>
+<option>gujarat</option>
+<option>rajasthan</option>
+<option>punjab</option>
+</select><br><br><br>
+<input type="submit" value="submit">
+<input type="reset" value="reset">
+
+</form>
+</body>
+</html>
+
