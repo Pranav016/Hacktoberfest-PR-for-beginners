@@ -10,3 +10,4 @@ Get in touch with the Contributors-
 - @SmarthGuy
 - @santoshpant23
 - @jonathanvanhaaften
+- @adityamuzumdar
